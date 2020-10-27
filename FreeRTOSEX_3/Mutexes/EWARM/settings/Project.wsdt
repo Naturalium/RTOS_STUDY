@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>Mutexes/Mutexes</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>237</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Select-Ambiguous-Definitions>
+        <PreferedWindows>
+          <Position>3</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows/>
+        </PreferedWindows>
+        <ColumnWidth0>529</ColumnWidth0>
+        <ColumnWidth1>75</ColumnWidth1>
+        <ColumnWidth2>908</ColumnWidth2>
+      </Select-Ambiguous-Definitions>
+      <PROJECT_GUI_CALL_GRAPH>
+        <PreferedWindows>
+          <Position>3</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows/>
+        </PreferedWindows>
+        <col-names>
+          <item>File</item>
+          <item>Function</item>
+          <item>Line</item>
+        </col-names>
+        <col-widths>
+          <item>200</item>
+          <item>700</item>
+          <item>100</item>
+        </col-widths>
+      </PROJECT_GUI_CALL_GRAPH>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1107</ColumnWidth1><ColumnWidth2>295</ColumnWidth2><ColumnWidth3>73</ColumnWidth3></Build>
+      <TerminalIO/>
+    <Breakpoints><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><col-names><item>Breakpoint</item><item>_I0</item></col-names><col-widths><item>500</item><item>35</item></col-widths></Breakpoints></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-25126-6981</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>Mutexes</ExpandedNode><ExpandedNode>Mutexes/Application</ExpandedNode><ExpandedNode>Mutexes/Application/EWARM</ExpandedNode><ExpandedNode>Mutexes/Application/User</ExpandedNode><ExpandedNode>Mutexes/Drivers</ExpandedNode><ExpandedNode>Mutexes/Drivers/CMSIS</ExpandedNode><ExpandedNode>Mutexes/Drivers/STM32F4xx_HAL_Driver</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-11451-15220</Identity>
+            <TabName>Ambiguous Definitions</TabName>
+            <Factory>Select-Ambiguous-Definitions</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-30690-15883</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>1</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_gpio.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>66</YPos2><SelStart2>10207</SelStart2><SelEnd2>10207</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Src\freertos.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>27</YPos2><SelStart2>0</SelStart2><SelEnd2>0</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Src\stm32f4xx_it.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>122</YPos2><SelStart2>4557</SelStart2><SelEnd2>4557</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Src\stm32f4xx_hal_msp.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>58</YPos2><SelStart2>0</SelStart2><SelEnd2>0</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Middlewares\Third_Party\FreeRTOS\Source\CMSIS_RTOS\cmsis_os.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>646</YPos2><SelStart2>34360</SelStart2><SelEnd2>34374</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Middlewares\Third_Party\FreeRTOS\Source\include\semphr.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>319</YPos2><SelStart2>15650</SelStart2><SelEnd2>15655</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Middlewares\Third_Party\FreeRTOS\Source\CMSIS_RTOS\cmsis_os.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>254</YPos2><SelStart2>10842</SelStart2><SelEnd2>10842</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Src\system_stm32f4xx.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>171</YPos2><SelStart2>7012</SelStart2><SelEnd2>7012</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Middlewares\Third_Party\FreeRTOS\Source\tasks.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>3138</YPos2><SelStart2>106099</SelStart2><SelEnd2>106099</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Middlewares\Third_Party\FreeRTOS\Source\portable\MemMang\heap_4.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>146</YPos2><SelStart2>7345</SelStart2><SelEnd2>7345</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Middlewares\Third_Party\FreeRTOS\Source\portable\IAR\ARM_CM4F\port.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>303</YPos2><SelStart2>11305</SelStart2><SelEnd2>11305</SelEnd2></Tab><ActiveTab>10</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Src\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>292</YPos2><SelStart2>9559</SelStart2><SelEnd2>9559</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-054A0458><key>iaridepm.enu1</key></Toolbar-054A0458></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>538</Bottom><Right>328</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>130208</sizeHorzCX><sizeHorzCY>256082</sizeHorzCY><sizeVertCX>214844</sizeVertCX><sizeVertCY>691421</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>198</Bottom><Right>1538</Right><x>-2</x><y>-2</y><xscreen>1540</xscreen><yscreen>200</yscreen><sizeHorzCX>1002604</sizeHorzCX><sizeHorzCY>256082</sizeHorzCY><sizeVertCX>130208</sizeVertCX><sizeVertCY>256082</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

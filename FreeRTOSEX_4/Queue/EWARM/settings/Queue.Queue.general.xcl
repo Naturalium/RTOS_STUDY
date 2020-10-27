@@ -1,0 +1,15 @@
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\armproc.dll" 
+
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\armstlink2.dll" 
+
+"D:\USER\(D)\대학\RATS\소프트웨어\cubemx\test\FreeRTOSEX_4\Queue\EWARM\Queue\Exe\Queue.out" 
+
+--plugin "D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\armbat.dll" 
+
+--device_macro "D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+--flash_loader "D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\config\flashloader\ST\FlashSTM32F4xxx.board" 
+
+
+
+
